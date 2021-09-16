@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Architecture components app</string>
+    <string name="addWords">add_words</string>
+    <string name="hint_word">Word is</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
